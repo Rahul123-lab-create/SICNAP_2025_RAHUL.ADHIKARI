@@ -4,12 +4,12 @@ b = float(input("Enter second number: "))
 c = float(input("Enter third number: "))
 
 # Find the largest
-if a >= b and a >= c:
-    largest = a
-elif b >= a and b >= c:
-    largest = b
+if a <= b and a <= c:
+    smallest = a
+elif b <= a and b <= c:
+    smallest= b
 else:
-    largest = c
+    smallest = c
 
 # Display the result
-print("The largest number is:", largest)
+print("The smallest number is:", smallest)

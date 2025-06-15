@@ -1,0 +1,4 @@
+*.login
+*.tmp
+*.pyc
+_pycache_/

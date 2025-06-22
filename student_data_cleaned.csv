@@ -1,0 +1,9 @@
+Name,Age,Gender,City,Physics,Chemistry,Mathematics,Attendance,Average_Marks,Pass
+Aman,20,Male,Kathmandu,85,79,90,95,84.67,Yes
+Boman,18,Male,Pokhara,45,55,35,80,45.0,No
+Raman,16,Male,Lalitpur,70,65,60,87,65.0,Yes
+Sneha,19,Female,Dharan,60,58,62,77,60.0,Yes
+Manjisha,17,Female,Biratnagar,92,89,94,93,91.67,Yes
+Sumiran,18,Male,Kathmandu,70,85,70,60,75.0,Yes
+Sumit,17,Male,Pokhara,78,90,86,98,84.67,Yes
+Parash,18,Male,Lalitpur,30,20,35,21,28.33,No
